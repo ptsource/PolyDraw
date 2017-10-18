@@ -34,5 +34,11 @@ Note: Whenever you Paste an object, PTSourceDraw3D automatically changes to 'Mov
 * The "Objects List" shows that there are 2 objects (both cubes). To change the name of the 'Clipboard Object', double click on it or hit 'Enter'. Type in a new name, such as '2nd Cube'.
 * It should be obvious now that there are 2 cube objects. To change the color of a cube, click on that cube in the Objects List (to select it's vertices & triangles), then hit 'C' (or click on Color->'Set Triangle Colors'). You should see a color selection window. Click on the color you want. (For a large color range, click on 'Define Custom Colors').
 * To set the colors of the front face of a cube, change to Select mode (hit 'S', or click on Edit Mode->Select).
+* In the Top View, hold down the left mouse button slightly above & to the left of the bottom left corner of one of the cubes, and drag the mouse to below the bottom right corner of the cube, and release the mouse button. 
+If you selected some triangles, the 3D View should show the selected triangles as shaded, while the rest are just a wireframe. 
+If you didn't select the face properly, just try again.
+* Change the face's color (hit 'C', or click on Color->'Set Triangle Colors').
+
+### Cool 3D Effects
 
 
