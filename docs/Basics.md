@@ -41,4 +41,7 @@ If you didn't select the face properly, just try again.
 
 ### Cool 3D Effects
 
+To make the currently selected triangles look like that, click on Color->'Color Effects', and try either 'RainbowFX' or 'WaterFX', depending on which one you prefer. If you rotate the 3D View (hit 'R' for Rotate Mode, then drag the mouse around), the colors change, so you can find an angle that gives the best look, or it can look like an animation. If you change the 'Contrast' Mode (also in the Color menu), you can also change what the effects look like. 
+This can look great when you want to save a picture of your 3D model!
+
 
