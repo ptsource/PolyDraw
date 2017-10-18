@@ -9,6 +9,7 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 * Exports to WebVR A-Frame OBJ with template (ready for interactive web viewing), VRML, POV (for stunning ray-tracing), BMP (for simple output) and DXF (for transfering to other CAD packages).
 * VRML viewer.
 * Allows you to create objects from Sweeps & Extrusions, basic shapes (cubes, cylinders, etc), meshes (vertices & triangles) and parametric NURBS Curves.
+* Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard, or use your mouse with the menus and toolbar, including mouse-wheel support.
 
 ![PTSourceDraw3D](/images/01.jpg)
