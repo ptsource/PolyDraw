@@ -4,6 +4,8 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 
 ## Features 
 
+* Imports .D3D, .3DS, .ASC, .CSV .
+* Exports .D3D, OBJ, .WRL 1.0 , .WRL 2.0, .DXF, .BLOCK, .3DS, .ASC, .CSV, .POV.
 * Rapid saving & loading of 3DS, D3D & ASC files.
 * WebVR A-Frame template generation.
 * Exports to WebVR A-Frame OBJ with template (ready for interactive web viewing), VRML, POV (for stunning ray-tracing), BMP (for simple output) and DXF (for transfering to other CAD packages).
