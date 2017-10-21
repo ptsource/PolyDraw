@@ -1,6 +1,6 @@
 # PTSourceDraw3D
 
-PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a mesh of 3D points.Exports to WebVR A-Frame with template, .D3D, OBJ, .WRL 1.0 , .WRL 2.0, .DXF, .BLOCK, .3DS, .ASC, .CSV, .POV., .STL, .JSON.
+PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a mesh of 3D points.Exports to WebVR A-Frame with template.
 
 ## Features 
 
