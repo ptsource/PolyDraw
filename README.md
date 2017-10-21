@@ -14,10 +14,12 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 * Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard, or use your mouse with the menus and toolbar, including mouse-wheel support.
 
-| First Header  | Second Header |
+## Formats import export table
+
+|Format  | Import | Export |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 ![PTSourceDraw3D](/images/01.jpg)
 
