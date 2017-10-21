@@ -4,8 +4,6 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 
 ## Features 
 
-* Imports .D3D, .3DS, .ASC, .CSV .
-* Exports .D3D, OBJ, .WRL 1.0 , .WRL 2.0, .DXF, .BLOCK, .3DS, .ASC, .CSV, .POV., .STL, .JSON .
 * Rapid saving & loading of 3DS, D3D & ASC files.
 * WebVR A-Frame template generation.
 * Exports to WebVR A-Frame OBJ with template (ready for interactive web viewing), POV (for stunning ray-tracing), BMP (for simple output) and DXF (for transfering to other CAD packages), STL for 3D printing, JSON for ThreeJS and more.
@@ -21,13 +19,13 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 | 3D Studio format  (.3DS) | Y | Y |
 | 3D Studio Ascii format (.ASC)  | Y  | Y |
 | Spreadsheet Text File (.CSV) | Y  | Y |
-| WebVR A-Frame (.OBJ)  | N  | Y |
+| WebVR A-Frame (.OBJ)  | Y  | Y |
 | VRML 1.0 (.WRL)  | N  | Y |
 | VRML 2.0 (.WRL)  | N  | Y |
 | 3D Printer (.STL)  | N  | Y |
 | ThreeJS (.JSN)  | N  | Y |
 | Polygon File Format (.PLY) | N  | Y |
-| AutoCAD DXF (.DXF) | N  | Y |
+| AutoCAD DXF (.DXF) | Y  | Y |
 | Flatland Block (.BLK) | N  | Y |
 | POV-Ray (.POV) | N  | Y |
 
