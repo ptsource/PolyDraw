@@ -17,7 +17,7 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 ## Formats import export table
 
 |Format  | Import | Export |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
