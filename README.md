@@ -27,6 +27,14 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 | AutoCAD DXF (.DXF) | Y  | Y |
 | Flatland Block (.BLK) | N  | Y |
 | POV-Ray (.POV) | N  | Y |
+| TECPLOT files (.TEC) | N  | N |
+| XGL files (.XGL) | N  | N |
+| GEOMVIEW files (.OFF) | N  | N |
+| Movie.BYU geometry (.BYU) | N  | N |
+| Blender 3D ( .BLD ) (.BLD) | N  | N |
+| glTF  ( .GLT ) (.GLT) | N  | N |
+| Collada  ( .DAE ) (.DAE) | N  | N |
+| Autodesk  ( .FBX ) (.FBX) | N  | N |
 
 ![PTSourceDraw3D](/images/01.jpg)
 
