@@ -18,8 +18,10 @@ PTSourceDraw3D is a 3D modeller, for creating or modifying 3D objects using a me
 
 |Format  | Import | Export |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| 3D Studio format  (.3DS) | Y | Y |
+| 3D Studio Ascii format (.ASC)  | Y  | Y |
+| Spreadsheet Text File (.CSV) | Y  | Y |
+| WebVR A-Frame (.OBJ)  | N  | Y |
 
 ![PTSourceDraw3D](/images/01.jpg)
 
