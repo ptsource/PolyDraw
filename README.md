@@ -37,10 +37,11 @@ PTSourceDraw3D is a 3D polygonal modeller, for creating or modifying 3D objects 
 | XGL files (.XGL) | N  | N |
 | GEOMVIEW files (.OFF) | N  | N |
 | Movie.BYU geometry (.BYU) | N  | N |
-| Blender 3D ( .BLD ) (.BLD) | N  | N |
-| glTF  ( .GLT ) (.GLT) | N  | N |
-| Collada  ( .DAE ) (.DAE) | N  | N |
-| Autodesk  ( .FBX ) (.FBX) | N  | N |
+| Blender 3D ( .BLD ) | N  | N |
+| glTF  ( .GLT ) | N  | N |
+| Collada  ( .DAE ) | N  | N |
+| Autodesk  ( .FBX ) | N  | N |
+| Digistar II VLA  ( .VLA )  | N  | N |
 
 ![PTSourceDraw3D](/images/01.jpg)
 
