@@ -1,4 +1,6 @@
-Making a simple House
+## PTSourceDraw3D Basics
+
+### Making a House
 
 This tutorial explains how to work at the vertice / triangle editing level. This is the most basic drawing level, but is not necessarily the easiest or quickest, depending on what you are trying to draw. 
 
