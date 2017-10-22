@@ -24,6 +24,7 @@ PTSourceDraw3D is a 3D polygonal modeller, for creating or modifying 3D objects 
 | 3D Studio Ascii format (.ASC)  | Y  | Y |
 | Spreadsheet Text File (.CSV) | Y  | Y |
 | WebVR A-Frame (.OBJ)  | Y  | Y |
+| WaveFront File Format (.OBJ)  | Y  | Y |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
 | 3D Printer (.STL)  | N  | Y |
