@@ -1,5 +1,5 @@
-Making a simple House:
-Posted on 18th August, 2009 by Shervin Emami
+Making a simple House
+
 This tutorial explains how to work at the vertice / triangle editing level. This is the most basic drawing level, but is not necessarily the easiest or quickest, depending on what you are trying to draw. 
 
 The house is made from a rectangular cube, with a triangular roof on top. (If you want, you can look at the completed version, in the file 'House.D3D') 
