@@ -8,6 +8,7 @@ PTSourceDraw3D is a 3D polygonal modeller, for creating or modifying 3D objects 
 
 ## Features 
 
+* Fast rendering (ASM 3d engine)
 * WebVR A-Frame template generation.
 * Exports to WebVR A-Frame OBJ with template (ready for interactive web viewing), STL for 3D printing, JSON for ThreeJS and more, see supported formats bellow.
 * VRML viewer.
