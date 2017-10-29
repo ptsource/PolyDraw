@@ -29,7 +29,7 @@ The basic functions of each mode are:
  * Hold down the "Control" key on your keyboard, press the left mouse button somewhere in the "Front View", and hold the button down while you drag the mouse a little, until the cube is on the left hand side of the Front View.
 * Since the cube is already selected, make a copy of it by pressing Edit->Copy and then Edit->Paste (hit 'Ctrl' and 'C', then 'Ctrl' and 'V'). 
 There should now be a second cube in the centre of the Front View. 
-Note: Whenever you Paste an object, PTSourceDraw3D automatically changes to 'Move' Mode.
+Note: Whenever you Paste an object, PolyDraw automatically changes to 'Move' Mode.
 * Hold down the "Control" key while you drag the new cube to the right side of the Front View.
 * The "Objects List" shows that there are 2 objects (both cubes). To change the name of the 'Clipboard Object', double click on it or hit 'Enter'. Type in a new name, such as '2nd Cube'.
 * It should be obvious now that there are 2 cube objects. To change the color of a cube, click on that cube in the Objects List (to select it's vertices & triangles), then hit 'C' (or click on Color->'Set Triangle Colors'). You should see a color selection window. Click on the color you want. (For a large color range, click on 'Define Custom Colors').
