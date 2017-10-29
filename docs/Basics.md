@@ -1,8 +1,8 @@
-## PTSourceDraw3D Basics
+## PolyDraw Basics
 
 ### Selections
 
-In PTSourceDraw3D, most actions work on the current selection (all the vertices & triangles selected), or on everything if nothing is selected.
+In PolyDraw, most actions work on the current selection (all the vertices & triangles selected), or on everything if nothing is selected.
 To select items, either click on an object in the "Objects List", or select the vertices & triangles individually by hitting "S" on your keyboard to change to selection mode, and drag a rectangle around the vertices & triangles you want.
 
 You can also hold the "Control" key (or "Ctrl" key) as you click on individual vertices in the "Vertices List" & "Triangles List", or holding the "Control" key as you right-click near vertices in any of the views.
