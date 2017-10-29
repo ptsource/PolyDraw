@@ -2,9 +2,9 @@
 
 Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons. Polygonal modeling is well suited to scanline rendering and is therefore the method of choice for real-time computer graphics. Alternate methods of representing 3D objects include NURBS surfaces, subdivision surfaces, and equation-based representations used in ray tracers.
 
-# PTSourceDraw3D
+# PolyDraw
 
-PTSourceDraw3D is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
+PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
 
 ## Features 
 
@@ -45,13 +45,13 @@ PTSourceDraw3D is a 3D polygonal modeller, for creating or modifying 3D objects 
 
 ## Screenshots
 
-![PTSourceDraw3D](/images/01.jpg)
+![PolyDraw](/images/01.jpg)
 
-![PTSourceDraw3D](/images/02.jpg)
+![PolyDraw](/images/02.jpg)
 
-![PTSourceDraw3D](/images/03.jpg)
+![PolyDraw](/images/03.jpg)
 
-![PTSourceDraw3D](/images/04.jpg)
+![PolyDraw](/images/04.jpg)
 
 [![You can download here.](/images/button_download-here.png)](https://dl.orangedox.com/MON0RZXZKTyNNTAjaK?dl=1)
 
