@@ -44,13 +44,13 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 ## Screenshots
 
-![PolyDraw](/images/01.jpg)
+![PolyDraw](/images/01.png)
 
-![PolyDraw](/images/02.jpg)
+![PolyDraw](/images/02.png)
 
-![PolyDraw](/images/03.jpg)
+![PolyDraw](/images/03.png)
 
-![PolyDraw](/images/04.jpg)
+![PolyDraw](/images/04.png)
 
 [![You can download here.](/images/button_download.png)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
