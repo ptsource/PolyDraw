@@ -16,7 +16,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 * Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard, or use your mouse with the menus and toolbar, including mouse-wheel support.
 
-## Formats import export table current version updated 21/10/2017
+## Formats import export table current version updated 30/10/2017
 
 |Format  | Import | Export |
 | ------------- | ------------- | ------------- |
@@ -31,7 +31,6 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | ThreeJS (.JSN)  | N  | Y |
 | Polygon File Format (.PLY) | N  | Y |
 | AutoCAD DXF (.DXF) | Y  | Y |
-| Flatland Block (.BLK) | N  | Y |
 | POV-Ray (.POV) | N  | Y |
 | TECPLOT files (.TEC) | N  | N |
 | XGL files (.XGL) | N  | N |
@@ -53,7 +52,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 ![PolyDraw](/images/04.jpg)
 
-[![You can download here.](/images/button_download.png)](https://dl.orangedox.com/MON0RZXZKTyNNTAjaK?dl=1)
+[![You can download here.](/images/button_download.png)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
 ## Support
 
