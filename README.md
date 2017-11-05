@@ -8,7 +8,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
 
-#### Requires Microsoft Visual C++ Redistributable for Visual Studio 2015
+#### Requires Microsoft Visual C++ Redistributable for Visual Studio 2015 included
 
 https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
@@ -29,13 +29,13 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | 3D Studio format  (.3DS) | Y | Y |
 | 3D Studio Ascii format (.ASC)  | Y  | Y |
 | Spreadsheet Text File (.CSV) | Y  | Y |
-| WebVR A-Frame (.OBJ)  | Y  | Y |
-| WaveFront File Format (.OBJ)  | Y  | Y |
+| Wavefront Object + WebVR A-Frame (.OBJ)  | Y  | Y |
+| Wavefront Object (.OBJ)  | Y  | Y |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
-| 3D Printer (.STL)  | N  | Y |
+| Stereolithography (.STL)  | N  | Y |
 | ThreeJS (.JSN)  | N  | Y |
-| Polygon File Format (.PLY) | N  | Y |
+| Stanford Polygon Library (.PLY) | N  | Y |
 | AutoCAD DXF (.DXF) | Y  | Y |
 | POV-Ray (.POV) | N  | Y |
 | TECPLOT files (.TEC) | N  | N |
