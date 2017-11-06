@@ -36,6 +36,10 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | Stanford Polygon Library (.PLY)  | Y  | Y |
 | LightWave (.LWO)  | Y  | N |
 | LightWave Scene (.LWS)  | Y  | N |
+| TrueSpace (.COB)  | Y  | N |
+| TrueSpace Scene (.SCN)  | Y  | N |
+| XGL (.XGL,.ZGL)  | Y  | N |
+| Modo (.LXO)  | Y  | N |
 | Autodesk  ( .FBX )  | Y  | N |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
