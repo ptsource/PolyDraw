@@ -4,6 +4,8 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 # PolyDraw
 
+[![GitHub stars](https://img.shields.io/github/stars/ptsource/PolyDraw.svg)](https://github.com/ptsource/PolyDraw/stargazers)
+
 ### Current version 4.0 released 06/11/2017
 
 PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
