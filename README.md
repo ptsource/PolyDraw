@@ -4,7 +4,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 # PolyDraw
 
-### Current version 3.0 released 02/11/2017
+### Current version 4.0 released 06/11/2017
 
 PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
 
@@ -31,9 +31,14 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | Spreadsheet Text File (.CSV) | Y  | Y |
 | Wavefront Object + WebVR A-Frame (.OBJ)  | Y  | Y |
 | Wavefront Object (.OBJ)  | Y  | Y |
+| Collada Object (.DAE)  | Y  | N |
+| Stereolithography (.STL)  | Y  | Y |
+| Stanford Polygon Library (.PLY)  | Y  | Y |
+| LightWave (.LWO)  | Y  | N |
+| LightWave Scene (.LWS)  | Y  | N |
+| Autodesk  ( .FBX )  | Y  | N |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
-| Stereolithography (.STL)  | N  | Y |
 | ThreeJS (.JSN)  | N  | Y |
 | Stanford Polygon Library (.PLY) | N  | Y |
 | AutoCAD DXF (.DXF) | Y  | Y |
@@ -44,8 +49,6 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | Movie.BYU geometry (.BYU) | N  | N |
 | Blender 3D ( .BLD ) | N  | N |
 | glTF  ( .GLT ) | N  | N |
-| Collada  ( .DAE ) | N  | N |
-| Autodesk  ( .FBX ) | N  | N |
 | Digistar II VLA  ( .VLA )  | N  | N |
 
 ## Screenshots
