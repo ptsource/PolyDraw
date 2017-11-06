@@ -59,10 +59,8 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 ![PolyDraw](/images/07.png)![PolyDraw](/images/02.png)![PolyDraw](/images/03.png)
 ![PolyDraw](/images/04.png)![PolyDraw](/images/05.png)![PolyDraw](/images/06.png)
 
-[![You can download here.](/images/button_download.png)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
+[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
 ## Support
 
-[![Visit homepage.](/images/button_homepage.png)](https://ptsource.eu/)
-
-[![The forums home page.](/images/button_forums.png)](https://www.facebook.com/www.ptsource.eu/)
+[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.facebook.com/www.ptsource.eu/)
