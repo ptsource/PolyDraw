@@ -56,14 +56,8 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | Digistar II VLA  ( .VLA )  | N  | N |
 
 ## Screenshots
-
-![PolyDraw](/images/01.png)
-
-![PolyDraw](/images/02.png)
-
-![PolyDraw](/images/03.png)
-
-![PolyDraw](/images/04.png)
+![PolyDraw](/images/01.png)![PolyDraw](/images/02.png)![PolyDraw](/images/03.png)
+![PolyDraw](/images/04.png)![PolyDraw](/images/05.png)![PolyDraw](/images/06.png)
 
 [![You can download here.](/images/button_download.png)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
