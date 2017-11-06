@@ -12,8 +12,6 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 #### Requires Microsoft Visual C++ Redistributable for Visual Studio 2015 included
 
-https://www.microsoft.com/en-us/download/details.aspx?id=48145
-
 ## Features 
 
 * Fast rendering (ASM 3d engine)
