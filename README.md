@@ -39,7 +39,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | Autodesk  ( .FBX )  | Y  | N |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
-| ThreeJS (.JSN)  | N  | Y |
+| ThreeJS (.JSON)  | N  | Y |
 | Stanford Polygon Library (.PLY) | N  | Y |
 | AutoCAD DXF (.DXF) | Y  | Y |
 | POV-Ray (.POV) | N  | Y |
@@ -47,7 +47,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 | XGL files (.XGL) | N  | N |
 | GEOMVIEW files (.OFF) | N  | N |
 | Movie.BYU geometry (.BYU) | N  | N |
-| Blender 3D ( .BLD ) | N  | N |
+| Blender 3D ( .BLEND ) | N  | N |
 | glTF  ( .GLT ) | N  | N |
 | Digistar II VLA  ( .VLA )  | N  | N |
 
