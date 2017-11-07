@@ -33,29 +33,30 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Spreadsheet Text File (.CSV) |  :+1: |  :+1: |
 | Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: |
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: |
-| Collada Object (.DAE)  |  :+1:  | N |
+| Collada Object (.DAE)  |  :+1:  |  |
 | Stereolithography (.STL)  |  :+1:  |  :+1: |
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: |
-| LightWave (.LWO)  |  :+1:  | N |
-| LightWave Scene (.LWS)  |  :+1:  | N |
-| TrueSpace (.COB)  |  :+1:  | N |
-| TrueSpace Scene (.SCN)  |  :+1:  | N |
-| XGL (.XGL,.ZGL)  |  :+1:  | N |
-| Modo (.LXO)  | Y  | N |
-| Autodesk  ( .FBX )  | Y  | :-1: N |
-| VRML 1.0 (.WRL)  | Y  | Y |
-| VRML 2.0 (.WRL)  | Y  | Y |
-| ThreeJS (.JSON)  | N  | Y |
-| Stanford Polygon Library (.PLY) | N  | Y |
-| AutoCAD DXF (.DXF) | Y  | Y |
-| POV-Ray (.POV) | N  | Y |
-| TECPLOT files (.TEC) | N  | N |
-| XGL files (.XGL) | N  | N |
-| GEOMVIEW files (.OFF) | N  | N |
-| Movie.BYU geometry (.BYU) | N  | N |
-| Blender 3D ( .BLEND ) | N  | N |
-| glTF  ( .GLT ) | N  | N |
-| Digistar II VLA  ( .VLA )  | N  | N |
+| LightWave (.LWO)  |  :+1:  |  |
+| LightWave Scene (.LWS)  |  :+1:  |  |
+| TrueSpace (.COB)  |  :+1:  |  |
+| TrueSpace Scene (.SCN)  |  :+1:  |  |
+| XGL (.XGL,.ZGL)  |  :+1:  |  |
+| Modo (.LXO)  |  :+1:  |  |
+| Autodesk  ( .FBX )  |  :+1:  |   |
+| VRML 1.0 (.WRL)  |  :+1:  |  :+1: |
+| VRML 2.0 (.WRL)  |  :+1:  |  :+1: |
+| ThreeJS (.JSON)  |   |  :+1: |
+| Stanford Polygon Library (.PLY) |   |  :+1: |
+| AutoCAD DXF (.DXF) |  :+1:  |  :+1: |
+| POV-Ray (.POV) |  |  :+1: |
+| TECPLOT files (.TEC) |   |  |
+| XGL files (.XGL) |   |  |
+| GEOMVIEW files (.OFF) |   |  |
+| Movie.BYU geometry (.BYU) |   |  |
+| Blender 3D ( .BLEND ) |   |  |
+| glTF  ( .GLT ) |   |  |
+| Digistar II VLA  ( .VLA )  |   |  |
+| Biovision  ( .BVH )  |   |  |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
