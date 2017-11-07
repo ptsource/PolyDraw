@@ -33,30 +33,30 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Spreadsheet Text File (.CSV) |  :+1: |  :+1: |
 | Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: |
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: |
-| Collada Object (.DAE)  |  :+1:  |  |
+| Collada Object (.DAE)  |  :+1:  | :no_entry_sign: |
 | Stereolithography (.STL)  |  :+1:  |  :+1: |
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: |
-| LightWave (.LWO)  |  :+1:  |  |
-| LightWave Scene (.LWS)  |  :+1:  |  |
-| TrueSpace (.COB)  |  :+1:  |  |
-| TrueSpace Scene (.SCN)  |  :+1:  |  |
-| XGL (.XGL,.ZGL)  |  :+1:  |  |
-| Modo (.LXO)  |  :+1:  |  |
-| Autodesk  ( .FBX )  |  :+1:  |   |
+| LightWave (.LWO)  |  :+1:  | :no_entry_sign: |
+| LightWave Scene (.LWS)  |  :+1:  | :no_entry_sign: |
+| TrueSpace (.COB)  |  :+1:  | :no_entry_sign: |
+| TrueSpace Scene (.SCN)  |  :+1:  | :no_entry_sign: |
+| XGL (.XGL,.ZGL)  |  :+1:  | :no_entry_sign: |
+| Modo (.LXO)  |  :+1:  | :no_entry_sign: |
+| Autodesk  ( .FBX )  |  :+1:  | :no_entry_sign:  |
 | VRML 1.0 (.WRL)  |  :+1:  |  :+1: |
 | VRML 2.0 (.WRL)  |  :+1:  |  :+1: |
-| ThreeJS (.JSON)  |   |  :+1: |
+| ThreeJS (.JSON)  | :no_entry_sign:  |  :+1: |
 | Stanford Polygon Library (.PLY) |   |  :+1: |
 | AutoCAD DXF (.DXF) |  :+1:  |  :+1: |
-| POV-Ray (.POV) |  |  :+1: |
-| TECPLOT files (.TEC) |   |  |
-| XGL files (.XGL) |   |  |
-| GEOMVIEW files (.OFF) |   |  |
-| Movie.BYU geometry (.BYU) |   |  |
-| Blender 3D ( .BLEND ) |   |  |
-| glTF  ( .GLT ) |   |  |
-| Digistar II VLA  ( .VLA )  |   |  |
-| Biovision  ( .BVH )  |   |  |
+| POV-Ray (.POV) | :no_entry_sign: |  :+1: |
+| TECPLOT files (.TEC) | :no_entry_sign:  | :no_entry_sign: |
+| XGL files (.XGL) | :no_entry_sign:  | :no_entry_sign: |
+| GEOMVIEW files (.OFF) | :no_entry_sign:  | :no_entry_sign: |
+| Movie.BYU geometry (.BYU) | :no_entry_sign:  | :no_entry_sign: |
+| Blender 3D ( .BLEND ) | :no_entry_sign:  | :no_entry_sign: |
+| glTF  ( .GLT ) | :no_entry_sign:  | :no_entry_sign: |
+| Digistar II VLA  ( .VLA )  | :no_entry_sign:  | :no_entry_sign: |
+| Biovision  ( .BVH )  | :no_entry_sign:  | :no_entry_sign: |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
