@@ -28,7 +28,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 |Format  | Import | Export |
 | ------------- | ------------- | ------------- |
-| 3D Studio format  (.3DS) | Y | Y |
+| 3D Studio format  (.3DS) | :+1: Y | Y |
 | 3D Studio Ascii format (.ASC)  | Y  | Y |
 | Spreadsheet Text File (.CSV) | Y  | Y |
 | Wavefront Object + WebVR A-Frame (.OBJ)  | Y  | Y |
@@ -42,7 +42,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | TrueSpace Scene (.SCN)  | Y  | N |
 | XGL (.XGL,.ZGL)  | Y  | N |
 | Modo (.LXO)  | Y  | N |
-| Autodesk  ( .FBX )  | Y  | N |
+| Autodesk  ( .FBX )  | Y  | :-1: N |
 | VRML 1.0 (.WRL)  | Y  | Y |
 | VRML 2.0 (.WRL)  | Y  | Y |
 | ThreeJS (.JSON)  | N  | Y |
