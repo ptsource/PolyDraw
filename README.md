@@ -28,19 +28,19 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 |Format  | Import | Export |
 | ------------- | ------------- | ------------- |
-| 3D Studio format  (.3DS) | :+1: Y | Y |
-| 3D Studio Ascii format (.ASC)  | Y  | Y |
-| Spreadsheet Text File (.CSV) | Y  | Y |
-| Wavefront Object + WebVR A-Frame (.OBJ)  | Y  | Y |
-| Wavefront Object (.OBJ)  | Y  | Y |
-| Collada Object (.DAE)  | Y  | N |
-| Stereolithography (.STL)  | Y  | Y |
-| Stanford Polygon Library (.PLY)  | Y  | Y |
-| LightWave (.LWO)  | Y  | N |
-| LightWave Scene (.LWS)  | Y  | N |
-| TrueSpace (.COB)  | Y  | N |
-| TrueSpace Scene (.SCN)  | Y  | N |
-| XGL (.XGL,.ZGL)  | Y  | N |
+| 3D Studio format  (.3DS) | :+1: | :+1: |
+| 3D Studio Ascii format (.ASC)  |  :+1:  |  :+1: |
+| Spreadsheet Text File (.CSV) |  :+1: |  :+1: |
+| Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: |
+| Wavefront Object (.OBJ)  |  :+1:  |  :+1: |
+| Collada Object (.DAE)  |  :+1:  | N |
+| Stereolithography (.STL)  |  :+1:  |  :+1: |
+| Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: |
+| LightWave (.LWO)  |  :+1:  | N |
+| LightWave Scene (.LWS)  |  :+1:  | N |
+| TrueSpace (.COB)  |  :+1:  | N |
+| TrueSpace Scene (.SCN)  |  :+1:  | N |
+| XGL (.XGL,.ZGL)  |  :+1:  | N |
 | Modo (.LXO)  | Y  | N |
 | Autodesk  ( .FBX )  | Y  | :-1: N |
 | VRML 1.0 (.WRL)  | Y  | Y |
