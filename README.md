@@ -26,38 +26,38 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 ## Formats import export table current version
 
-|Format  | Import | Export | Issues |
-| ------------- | ------------- | ------------- | ------------- |
-| 3D Studio format  (.3DS) | :+1: | :+1: |  |
-| 3D Studio Ascii format (.ASC)  |  :+1:  |  :+1: | |
-| Spreadsheet Text File (.CSV) |  :+1: |  :+1: | |
-| Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: | |
-| Wavefront Object (.OBJ)  |  :+1:  |  :+1: | |
-| Collada Object (.DAE)  |  :+1:  | :no_entry: | |
-| Stereolithography (.STL)  |  :+1:  |  :+1: | |
-| Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | |
-| LightWave (.LWO)  |  :+1:  | :no_entry: | |
-| LightWave Scene (.LWS)  |  :+1:  | :no_entry: | |
-| TrueSpace (.COB)  |  :+1:  | :no_entry: | |
-| TrueSpace Scene (.SCN)  |  :+1:  | :no_entry: | |
-| XGL (.XGL,.ZGL)  |  :+1:  | :no_entry: | |
-| Modo (.LXO)  |  :+1:  | :no_entry: | |
-| Autodesk  ( .FBX )  |  :+1:  | :no_entry:  | |
-| VRML 1.0 (.WRL)  |  :+1:  |  :+1: | |
-| VRML 2.0 (.WRL)  |  :+1:  |  :+1: | |
-| ThreeJS (.JSON)  | :no_entry:  |  :+1: | |
-| Stanford Polygon Library (.PLY) | :+1:  |  :+1: | |
-| AutoCAD DXF (.DXF) |  :+1:  |  :+1: | |
-| POV-Ray (.POV) | :no_entry: |  :+1: | |
-| TECPLOT files (.TEC) | :no_entry:  | :no_entry: | |
-| XGL files (.XGL) | :no_entry:  | :no_entry: | |
-| GEOMVIEW files (.OFF) | :no_entry:  | :no_entry: | |
-| Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | |
-| Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | |
-| glTF  ( .GLT ) | :no_entry:  | :no_entry: | |
-| Digistar II VLA  ( .VLA )  | :no_entry:  | :no_entry: | |
-| Biovision  ( .BVH )  | :+1:  | :no_entry: | |
-| Ogre XML ( .XML )  | :+1:  | :no_entry: | |
+|Format  | Import | Export | 
+| ------------- | ------------- | ------------- | 
+| 3D Studio format  (.3DS) | :+1: | :+1: |  
+| 3D Studio Ascii format (.ASC)  |  :+1:  |  :+1: | 
+| Spreadsheet Text File (.CSV) |  :+1: |  :+1: | 
+| Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: | 
+| Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
+| Collada Object (.DAE)  |  :+1:  | :no_entry: | 
+| Stereolithography (.STL)  |  :+1:  |  :+1: | 
+| Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
+| LightWave (.LWO)  |  :+1:  | :no_entry: | 
+| LightWave Scene (.LWS)  |  :+1:  | :no_entry: | 
+| TrueSpace (.COB)  |  :+1:  | :no_entry: | 
+| TrueSpace Scene (.SCN)  |  :+1:  | :no_entry: | 
+| XGL (.XGL,.ZGL)  |  :+1:  | :no_entry: | 
+| Modo (.LXO)  |  :+1:  | :no_entry: | 
+| Autodesk  ( .FBX )  |  :+1:  | :no_entry:  | 
+| VRML 1.0 (.WRL)  |  :+1:  |  :+1: | 
+| VRML 2.0 (.WRL)  |  :+1:  |  :+1: | 
+| ThreeJS (.JSON)  | :no_entry:  |  :+1: | 
+| Stanford Polygon Library (.PLY) | :+1:  |  :+1: | 
+| AutoCAD DXF (.DXF) |  :+1:  |  :+1: | 
+| POV-Ray (.POV) | :no_entry: |  :+1: | 
+| TECPLOT files (.TEC) | :no_entry:  | :no_entry: | 
+| XGL files (.XGL) | :no_entry:  | :no_entry: | 
+| GEOMVIEW files (.OFF) | :no_entry:  | :no_entry: | 
+| Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | 
+| Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
+| glTF  ( .GLT ) | :no_entry:  | :no_entry: | 
+| Digistar II VLA  ( .VLA )  | :no_entry:  | :no_entry: | 
+| Biovision  ( .BVH )  | :+1:  | :no_entry: | 
+| Ogre XML ( .XML )  | :+1:  | :no_entry: | 
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
