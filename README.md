@@ -46,7 +46,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | VRML 1.0 (.WRL)  |  :+1:  |  :+1: |
 | VRML 2.0 (.WRL)  |  :+1:  |  :+1: |
 | ThreeJS (.JSON)  | :no_entry:  |  :+1: |
-| Stanford Polygon Library (.PLY) | :no_entry:  |  :+1: |
+| Stanford Polygon Library (.PLY) | :+1:  |  :+1: |
 | AutoCAD DXF (.DXF) |  :+1:  |  :+1: |
 | POV-Ray (.POV) | :no_entry: |  :+1: |
 | TECPLOT files (.TEC) | :no_entry:  | :no_entry: |
