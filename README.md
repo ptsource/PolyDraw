@@ -10,7 +10,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/07.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.png)
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/04.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/05.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/06.png)
 
-### Current version 4.0 released 06/11/2017
+### Current version 4.0 released 10/11/2017
 
 PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
 
@@ -32,7 +32,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Spreadsheet Text File (.CSV) |  :+1: |  :+1: | 
 | Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: | 
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
-| Collada Object (.DAE)  |  :+1:  | :no_entry: | 
+| Collada Object (.DAE)  |  :+1:  | :+1: | 
 | Stereolithography (.STL)  |  :+1:  |  :+1: | 
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
 | LightWave (.LWO)  |  :+1:  | :no_entry: | 
