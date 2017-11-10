@@ -4,7 +4,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 # PolyDraw
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()  [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-4.0-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) 
+[![Maintenance](/images/2017.svg)]()  [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-4.0-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) 
 
 ## Screenshots
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/20.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/21.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/22.png)
