@@ -8,7 +8,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 ## Screenshots
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/20.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/21.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/22.png)
-![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/23.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/24.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/25.png)
+![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/23.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/26.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/27.png)
 
 ### Current version 4.0 released 10/11/2017
 
