@@ -4,11 +4,6 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 # PolyDraw
 
-## Support on Beerpay
-Hey dude! Help us out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/ptsource/PolyDraw/badge.svg?style=beer-square)](https://beerpay.io/ptsource/PolyDraw)  [![Beerpay](https://beerpay.io/ptsource/PolyDraw/make-wish.svg?style=flat-square)](https://beerpay.io/ptsource/PolyDraw?focus=wish)
-
 [![Maintenance](/images/2017.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-4.0-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Docs](/images/docs-here-blue.svg)](/docs/)
 
 ## Screenshots
