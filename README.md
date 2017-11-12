@@ -64,3 +64,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 ## Support
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.facebook.com/www.ptsource.eu/)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/ptsource/PolyDraw/badge.svg?style=beer-square)](https://beerpay.io/ptsource/PolyDraw)  [![Beerpay](https://beerpay.io/ptsource/PolyDraw/make-wish.svg?style=flat-square)](https://beerpay.io/ptsource/PolyDraw?focus=wish)
