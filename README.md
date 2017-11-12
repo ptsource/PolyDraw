@@ -57,7 +57,6 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Digistar II VLA  ( .VLA )  | :no_entry:  | :no_entry: | 
 | Biovision  ( .BVH )  | :+1:  | :no_entry: | 
 | Ogre XML ( .XML )  | :+1:  | :no_entry: | 
-| Flatland Blocks ( .BLOCK )  | :no_entry:  | :+1:  | 
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
