@@ -30,7 +30,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | 3D Studio format  (.3DS) | :+1: | :+1: |  
 | 3D Studio Ascii format (.ASC)  |  :+1:  |  :+1: | 
 | Spreadsheet Text File (.CSV) |  :+1: |  :+1: | 
-| Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: | 
+| Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :+1:  |  :+1: | 
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
 | Collada Object (.DAE)  |  :+1:  | :+1: | 
 | Stereolithography Binary (.STL)  |  :+1:  |  :+1: | 
