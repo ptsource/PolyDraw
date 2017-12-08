@@ -33,7 +33,11 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Wavefront Object + WebVR A-Frame (.OBJ)  |  :+1:  |  :+1: | 
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
 | Collada Object (.DAE)  |  :+1:  | :+1: | 
-| Stereolithography (.STL)  |  :+1:  |  :+1: | 
+| Stereolithography Binary (.STL)  |  :+1:  |  :+1: | 
+| Stereolithography Ascii (.STL)  |  :+1:  |  :+1: | 
+| Hood Triangle Binary (.STL)  |  :+1:  |  :+1: | 
+| Hood Triangle Ascii (.STL)  |  :+1:  |  :+1: |
+| Open Inventor (.IV)  |  :+1:  |  :+1: |
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
 | LightWave (.LWO)  |  :+1:  | :no_entry: | 
 | LightWave Scene (.LWS)  |  :+1:  | :no_entry: | 
