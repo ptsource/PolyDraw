@@ -35,8 +35,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Collada Object (.DAE)  |  :+1:  | :+1: | 
 | Stereolithography Binary (.STL)  |  :+1:  |  :+1: | 
 | Stereolithography Ascii (.STL)  |  :+1:  |  :+1: | 
-| Hood Triangle Binary (.STL)  |  :+1:  |  :+1: | 
-| Hood Triangle Ascii (.STL)  |  :+1:  |  :+1: |
+| Hood Triangle Binary (.TRI)  |  :+1:  |  :+1: | 
+| Hood Triangle Ascii (.TRI)  |  :+1:  |  :+1: |
 | Open Inventor (.IV)  |  :+1:  |  :+1: |
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
 | LightWave (.LWO)  |  :+1:  | :no_entry: | 
