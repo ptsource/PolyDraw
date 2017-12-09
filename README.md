@@ -53,7 +53,6 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | AutoCAD DXF (.DXF) |  :+1:  |  :+1: | 
 | POV-Ray (.POV) | :no_entry: |  :+1: | 
 | TECPLOT files (.TEC) | :no_entry:  | :no_entry: | 
-| XGL files (.XGL) | :no_entry:  | :no_entry: | 
 | GEOMVIEW files (.OFF) | :no_entry:  | :no_entry: | 
 | Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | 
 | Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
