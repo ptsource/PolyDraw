@@ -40,10 +40,12 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Hood Triangle Ascii (.TRI)  |  :+1:  |  :+1: |
 | Open Inventor (.IV)  |  :+1:  |  :+1: |
 | Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
-| LightWave (.LWO)  |  :+1:  | :no_entry: | 
+| LightWave Object (.LWO)  |  :+1:  | :no_entry: | 
 | LightWave Scene (.LWS)  |  :+1:  | :no_entry: | 
-| TrueSpace (.COB)  |  :+1:  | :no_entry: | 
+| TrueSpace Object (.COB)  |  :+1:  | :no_entry: | 
 | TrueSpace Scene (.SCN)  |  :+1:  | :no_entry: | 
+| Quick3D Object (.Q3O)  |  :no_entry:  | :no_entry: | 
+| Quick3D Scene (.Q3S)  |  :no_entry:  | :no_entry: | 
 | XGL (.XGL)  |  :+1:  | :no_entry: | 
 | ZGL (.ZGL)  |  :+1:  | :no_entry: |
 | Modo (.LXO)  |  :+1:  | :no_entry: | 
