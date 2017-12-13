@@ -27,35 +27,35 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 |Format  | Import | Export | 
 | ------------- | ------------- | ------------- | 
-| 3D Studio Binary  (.3DS) | :+1: | :+1: |  
-| 3D Studio Ascii (.ASC)  |  :+1:  |  :+1: | 
+| 3D Studio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
+| 3D Studio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
 | 3D Studio Scene (.ASE)  |  :no_entry:  |  :no_entry: | 
-| Spreadsheet Text File (.CSV) |  :+1: |  :+1: | 
-| Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :+1:  |  :+1: | 
-| Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
-| Collada Object (.DAE)  |  :+1:  | :+1: | 
-| Stereolithography Binary (.STL)  |  :+1:  |  :+1: | 
-| Stereolithography Ascii (.STL)  |  :+1:  |  :+1: | 
-| Hood Triangle Binary (.TRI)  |  :+1:  |  :+1: | 
-| Hood Triangle Ascii (.TRI)  |  :+1:  |  :+1: |
-| Open Inventor (.IV)  |  :+1:  |  :+1: |
-| Stanford Polygon Library (.PLY)  |  :+1:  |  :+1: | 
-| LightWave Object (.LWO)  |  :+1:  | :no_entry: | 
-| LightWave Scene (.LWS)  |  :+1:  | :no_entry: | 
-| TrueSpace Object (.COB)  |  :+1:  | :no_entry: | 
-| TrueSpace Scene (.SCN)  |  :+1:  | :no_entry: | 
+| Spreadsheet Text File (.CSV) |  :white_check_mark: |  :white_check_mark: | 
+| Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :white_check_mark:  |  :white_check_mark: | 
+| Wavefront Object (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
+| Collada Object (.DAE)  |  :white_check_mark:  | :white_check_mark: | 
+| Stereolithography Binary (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
+| Stereolithography Ascii (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
+| Hood Triangle Binary (.TRI)  |  :white_check_mark:  |  :white_check_mark: | 
+| Hood Triangle Ascii (.TRI)  |  :white_check_mark:  |  :white_check_mark: |
+| Open Inventor (.IV)  |  :white_check_mark:  |  :white_check_mark: |
+| Stanford Polygon Library (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
+| LightWave Object (.LWO)  |  :white_check_mark:  | :no_entry: | 
+| LightWave Scene (.LWS)  |  :white_check_mark:  | :no_entry: | 
+| TrueSpace Object (.COB)  |  :white_check_mark:  | :no_entry: | 
+| TrueSpace Scene (.SCN)  |  :white_check_mark:  | :no_entry: | 
 | Quick3D Object (.Q3O)  |  :no_entry:  | :no_entry: | 
 | Quick3D Scene (.Q3S)  |  :no_entry:  | :no_entry: | 
-| XGL (.XGL)  |  :+1:  | :no_entry: | 
-| ZGL (.ZGL)  |  :+1:  | :no_entry: |
-| Modo (.LXO)  |  :+1:  | :no_entry: | 
-| Autodesk  ( .FBX )  |  :+1:  | :no_entry:  | 
-| VRML 1.0 (.WRL)  |  :+1:  |  :+1: | 
-| VRML 2.0 (.WRL)  |  :+1:  |  :+1: | 
-| ThreeJS (.JSON)  | :no_entry:  |  :+1: | 
-| Stanford Polygon Library (.PLY) | :+1:  |  :+1: | 
-| AutoCAD DXF (.DXF) |  :+1:  |  :+1: | 
-| POV-Ray (.POV) | :no_entry: |  :+1: | 
+| XGL (.XGL)  |  :white_check_mark:  | :no_entry: | 
+| ZGL (.ZGL)  |  :white_check_mark:  | :no_entry: |
+| Modo (.LXO)  |  :white_check_mark:  | :no_entry: | 
+| Autodesk  ( .FBX )  |  :white_check_mark:  | :no_entry:  | 
+| VRML 1.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
+| VRML 2.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
+| ThreeJS (.JSON)  | :no_entry:  |  :white_check_mark: | 
+| Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
+| AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
+| POV-Ray (.POV) | :no_entry: |  :white_check_mark: | 
 | TECPLOT files (.TEC) | :no_entry:  | :no_entry: | 
 | Neutral File Format (.NFF) | :no_entry:  | :no_entry: | 
 | Sense8 WorldToolkit (.NFF) | :no_entry:  | :no_entry: |
@@ -69,8 +69,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
 | glTF  ( .GLT ) | :no_entry:  | :no_entry: | 
 | Digistar II VLA  ( .VLA )  | :no_entry:  | :no_entry: | 
-| Biovision  ( .BVH )  | :+1:  | :no_entry: | 
-| Ogre XML ( .XML )  | :+1:  | :no_entry: | 
+| Biovision  ( .BVH )  | :white_check_mark:  | :no_entry: | 
+| Ogre XML ( .XML )  | :white_check_mark:  | :no_entry: | 
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
