@@ -29,7 +29,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | ------------- | ------------- | ------------- | 
 | 3D Studio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
 | 3D Studio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
-| 3D Studio Scene (.ASE)  |  :no_entry:  |  :no_entry: | 
+| 3D Studio Scene (.ASE)  |  :x:  |  :x: | 
 | Spreadsheet Text File (.CSV) |  :white_check_mark: |  :white_check_mark: | 
 | Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :white_check_mark:  |  :white_check_mark: | 
 | Wavefront Object (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
@@ -40,37 +40,37 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Hood Triangle Ascii (.TRI)  |  :white_check_mark:  |  :white_check_mark: |
 | Open Inventor (.IV)  |  :white_check_mark:  |  :white_check_mark: |
 | Stanford Polygon Library (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
-| LightWave Object (.LWO)  |  :white_check_mark:  | :no_entry: | 
-| LightWave Scene (.LWS)  |  :white_check_mark:  | :no_entry: | 
-| TrueSpace Object (.COB)  |  :white_check_mark:  | :no_entry: | 
-| TrueSpace Scene (.SCN)  |  :white_check_mark:  | :no_entry: | 
-| Quick3D Object (.Q3O)  |  :no_entry:  | :no_entry: | 
-| Quick3D Scene (.Q3S)  |  :no_entry:  | :no_entry: | 
-| XGL (.XGL)  |  :white_check_mark:  | :no_entry: | 
-| ZGL (.ZGL)  |  :white_check_mark:  | :no_entry: |
-| Modo (.LXO)  |  :white_check_mark:  | :no_entry: | 
-| Autodesk  ( .FBX )  |  :white_check_mark:  | :no_entry:  | 
+| LightWave Object (.LWO)  |  :white_check_mark:  | :x: | 
+| LightWave Scene (.LWS)  |  :white_check_mark:  | :x: | 
+| TrueSpace Object (.COB)  |  :white_check_mark:  | :x: | 
+| TrueSpace Scene (.SCN)  |  :white_check_mark:  | :x: | 
+| Quick3D Object (.Q3O)  |  :x:  | :x: | 
+| Quick3D Scene (.Q3S)  |  :x:  | :x: | 
+| XGL (.XGL)  |  :white_check_mark:  |:x: | 
+| ZGL (.ZGL)  |  :white_check_mark:  | :x: |
+| Modo (.LXO)  |  :white_check_mark:  | :x: | 
+| Autodesk  ( .FBX )  |  :white_check_mark:  | :x:  | 
 | VRML 1.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
 | VRML 2.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
-| ThreeJS (.JSON)  | :no_entry:  |  :white_check_mark: | 
+| ThreeJS (.JSON)  | :x:  |  :white_check_mark: | 
 | Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
 | AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
-| POV-Ray (.POV) | :no_entry: |  :white_check_mark: | 
-| TECPLOT files (.TEC) | :no_entry:  | :no_entry: | 
-| Neutral File Format (.NFF) | :no_entry:  | :no_entry: | 
-| Sense8 WorldToolkit (.NFF) | :no_entry:  | :no_entry: |
-| RtCW (.MDC) | :no_entry:  | :no_entry: |
-| Quake II (.MD2) | :no_entry:  | :no_entry: |
-| Quake III (.MD3) | :no_entry:  | :no_entry: |
-| Raw Triangles (.RAW) | :no_entry:  | :no_entry: |
-| Object File Format (.OFF) | :no_entry:  | :no_entry: | 
-| SoftImage (.HRC) | :no_entry:  | :no_entry: | 
-| Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | 
-| Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
-| glTF  ( .GLT ) | :no_entry:  | :no_entry: | 
-| Digistar II VLA  ( .VLA )  | :no_entry:  | :no_entry: | 
-| Biovision  ( .BVH )  | :white_check_mark:  | :no_entry: | 
-| Ogre XML ( .XML )  | :white_check_mark:  | :no_entry: | 
+| POV-Ray (.POV) | :x: |  :white_check_mark: | 
+| TECPLOT files (.TEC) | :x:  | :x: | 
+| Neutral File Format (.NFF) | :x:  | :x: | 
+| Sense8 WorldToolkit (.NFF) | :x:  | :x: |
+| RtCW (.MDC) | :x:  | :x: |
+| Quake II (.MD2) | :x:  | :x: |
+| Quake III (.MD3) | :x:  | :x: |
+| Raw Triangles (.RAW) | :x:  | :x: |
+| Object File Format (.OFF) | :x:  | :x: | 
+| SoftImage (.HRC) | :x:  | :x: | 
+| Movie.BYU geometry (.BYU) | :x:  | :x: | 
+| Blender 3D ( .BLEND ) | :x:  | :x: | 
+| glTF  ( .GLT ) | :x:  |:x: | 
+| Digistar II VLA  ( .VLA )  | :x:  | :x: | 
+| Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
+| Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
