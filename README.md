@@ -27,8 +27,9 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 |Format  | Import | Export | 
 | ------------- | ------------- | ------------- | 
-| 3D Studio format  (.3DS) | :+1: | :+1: |  
-| 3D Studio Ascii format (.ASC)  |  :+1:  |  :+1: | 
+| 3D Studio Binary  (.3DS) | :+1: | :+1: |  
+| 3D Studio Ascii (.ASC)  |  :+1:  |  :+1: | 
+| 3D Studio Scene (.ASE)  |  :no_entry:  |  :no_entry: | 
 | Spreadsheet Text File (.CSV) |  :+1: |  :+1: | 
 | Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :+1:  |  :+1: | 
 | Wavefront Object (.OBJ)  |  :+1:  |  :+1: | 
@@ -43,7 +44,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | LightWave Scene (.LWS)  |  :+1:  | :no_entry: | 
 | TrueSpace (.COB)  |  :+1:  | :no_entry: | 
 | TrueSpace Scene (.SCN)  |  :+1:  | :no_entry: | 
-| XGL (.XGL,.ZGL)  |  :+1:  | :no_entry: | 
+| XGL (.XGL)  |  :+1:  | :no_entry: | 
+| ZGL (.ZGL)  |  :+1:  | :no_entry: |
 | Modo (.LXO)  |  :+1:  | :no_entry: | 
 | Autodesk  ( .FBX )  |  :+1:  | :no_entry:  | 
 | VRML 1.0 (.WRL)  |  :+1:  |  :+1: | 
@@ -53,6 +55,9 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | AutoCAD DXF (.DXF) |  :+1:  |  :+1: | 
 | POV-Ray (.POV) | :no_entry: |  :+1: | 
 | TECPLOT files (.TEC) | :no_entry:  | :no_entry: | 
+| Neutral File Format (.NFF) | :no_entry:  | :no_entry: | 
+| Sense8 WorldToolkit (.NFF) | :no_entry:  | :no_entry: |
+| RtCW (.MDC) | :no_entry:  | :no_entry: |
 | GEOMVIEW files (.OFF) | :no_entry:  | :no_entry: | 
 | Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | 
 | Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
