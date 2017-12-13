@@ -58,7 +58,11 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Neutral File Format (.NFF) | :no_entry:  | :no_entry: | 
 | Sense8 WorldToolkit (.NFF) | :no_entry:  | :no_entry: |
 | RtCW (.MDC) | :no_entry:  | :no_entry: |
-| GEOMVIEW files (.OFF) | :no_entry:  | :no_entry: | 
+| Quake II (.MD2) | :no_entry:  | :no_entry: |
+| Quake III (.MD3) | :no_entry:  | :no_entry: |
+| Raw Triangles (.RAW) | :no_entry:  | :no_entry: |
+| Object File Format (.OFF) | :no_entry:  | :no_entry: | 
+| SoftImage (.HRC) | :no_entry:  | :no_entry: | 
 | Movie.BYU geometry (.BYU) | :no_entry:  | :no_entry: | 
 | Blender 3D ( .BLEND ) | :no_entry:  | :no_entry: | 
 | glTF  ( .GLT ) | :no_entry:  | :no_entry: | 
