@@ -18,7 +18,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 
 * Fast rendering (ASM 3d engine)
 * WebVR A-Frame template generation.
-* Exports to WebVR A-Frame OBJ with template (ready for interactive web viewing), STL for 3D printing, JSON for ThreeJS and more, see supported formats bellow.
+* Exports to WebVR (ready for interactive web viewing), STL for 3D printing, JSON for ThreeJS and more, see supported formats bellow.
 * Allows you to create objects from Sweeps & Extrusions, basic shapes (cubes, cylinders, etc), meshes (vertices & triangles) and parametric NURBS Curves.
 * Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard.
