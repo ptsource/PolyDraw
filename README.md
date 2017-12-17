@@ -22,6 +22,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 * Allows you to create objects from Sweeps & Extrusions, basic shapes (cubes, cylinders, etc), meshes (vertices & triangles) and parametric NURBS Curves.
 * Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard.
+* RGB Colour Picker.
+* RGB > ACI Colour Converter.
 
 ## Formats import export table current version
 
