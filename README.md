@@ -12,7 +12,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 ### Current version 6.0 released 17/12/2017
 
-PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports to WebVR A-Frame with template and over 30 formats.
+PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR.
 
 ## Features 
 
