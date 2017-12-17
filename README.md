@@ -58,7 +58,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
 | AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
 | POV-Ray (.POV) | :x: |  :white_check_mark: | 
-| TECPLOT files (.TEC) | :x:  | :x: | 
+| TECPLOT files (.TEC) | :x:  | :white_check_mark: | 
 | Neutral File Format (.NFF) | :x:  | :x: | 
 | Sense8 WorldToolkit (.NFF) | :x:  | :x: |
 | RtCW (.MDC) | :x:  | :x: |
@@ -66,11 +66,11 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | Quake III (.MD3) | :x:  | :x: |
 | Raw Triangles (.RAW) | :x:  | :x: |
 | Object File Format (.OFF) | :x:  | :x: | 
-| SoftImage (.HRC) | :x:  | :x: | 
-| Movie.BYU geometry (.BYU) | :x:  | :x: | 
+| SoftImage (.HRC) | :x:  | :white_check_mark: | 
+| Movie.BYU geometry (.BYU) | :x:  | :white_check_mark: | 
 | Blender 3D ( .BLEND ) | :x:  | :x: | 
 | glTF  ( .GLT ) | :x:  |:x: | 
-| Digistar II VLA  ( .VLA )  | :x:  | :x: | 
+| Digistar II VLA  ( .VLA )  | :x:  | :white_check_mark: | 
 | Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
 
