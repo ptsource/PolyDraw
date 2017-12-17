@@ -31,7 +31,7 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | ------------- | ------------- | ------------- | 
 | 3D Studio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
 | 3D Studio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
-| 3D Studio Scene (.ASE)  |  :x:  |  :x: | 
+| 3D Studio Scene (.ASE)  |  :white_check_mark:  |  :white_check_mark: | 
 | Spreadsheet Text File (.CSV) |  :white_check_mark: |  :white_check_mark: | 
 | Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :white_check_mark:  |  :white_check_mark: | 
 | Wavefront Object (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
@@ -46,8 +46,8 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | LightWave Scene (.LWS)  |  :white_check_mark:  | :x: | 
 | TrueSpace Object (.COB)  |  :white_check_mark:  | :x: | 
 | TrueSpace Scene (.SCN)  |  :white_check_mark:  | :x: | 
-| Quick3D Object (.Q3O)  |  :x:  | :x: | 
-| Quick3D Scene (.Q3S)  |  :x:  | :x: | 
+| Quick3D Object (.Q3O)  |  :white_check_mark:  | :x: | 
+| Quick3D Scene (.Q3S)  |  :white_check_mark:  | :x: | 
 | XGL (.XGL)  |  :white_check_mark:  |:x: | 
 | ZGL (.ZGL)  |  :white_check_mark:  | :x: |
 | Modo (.LXO)  |  :white_check_mark:  | :x: | 
@@ -59,18 +59,18 @@ PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using 
 | AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
 | POV-Ray (.POV) | :x: |  :white_check_mark: | 
 | TECPLOT files (.TEC) | :x:  | :white_check_mark: | 
-| Neutral File Format (.NFF) | :x:  | :x: | 
-| Sense8 WorldToolkit (.NFF) | :x:  | :x: |
-| RtCW (.MDC) | :x:  | :x: |
-| Quake II (.MD2) | :x:  | :x: |
-| Quake III (.MD3) | :x:  | :x: |
-| Raw Triangles (.RAW) | :x:  | :x: |
-| Object File Format (.OFF) | :x:  | :x: | 
-| SoftImage (.HRC) | :x:  | :white_check_mark: | 
-| Movie.BYU geometry (.BYU) | :x:  | :white_check_mark: | 
+| Neutral File Format (.NFF) | :white_check_mark:  | :x: | 
+| Sense8 WorldToolkit (.NFF) | :white_check_mark:  | :x: |
+| RtCW (.MDC) | :white_check_mark:  | :x: |
+| Quake II (.MD2) | :white_check_mark:  | :x: |
+| Quake III (.MD3) | :white_check_mark:  | :x: |
+| Raw Triangles (.RAW) | :white_check_mark:  | :x: |
+| Object File Format (.OFF) | :white_check_mark:  | :x: | 
+| SoftImage (.HRC) | :white_check_mark:  | :white_check_mark: | 
+| Movie.BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
 | Blender 3D ( .BLEND ) | :x:  | :x: | 
 | glTF  ( .GLT ) | :x:  |:x: | 
-| Digistar II VLA  ( .VLA )  | :x:  | :white_check_mark: | 
+| Digistar II VLA  ( .VLA )  | :white_check_mark:  | :white_check_mark: | 
 | Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
 
