@@ -3,16 +3,15 @@
 Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons. Polygonal modeling is well suited to scanline rendering and is therefore the method of choice for real-time computer graphics. Alternate methods of representing 3D objects include NURBS surfaces, subdivision surfaces, and equation-based representations used in ray tracers.
 
 # PolyDraw
+### Current version 6.0 released 17/12/2017
+
+PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR.
 
 [![Maintenance](/images/2017.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-6.0-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Docs](/images/docs-here-blue.svg)](/docs/)
 
 ## Screenshots
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/20.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/21.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/22.png)
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/23.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/26.png)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/27.png)
-
-### Current version 6.0 released 17/12/2017
-
-PolyDraw is a 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR.
 
 ## Features 
 
