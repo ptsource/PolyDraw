@@ -36,6 +36,7 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :white_check_mark:  |  :white_check_mark: | 
 | Wavefront Object (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
 | Collada Object (.DAE)  |  :white_check_mark:  | :white_check_mark: | 
+| GLTF Binary (.GLB)  |  :x:  | :white_check_mark: | 
 | Stereolithography Binary (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
 | Stereolithography Ascii (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
 | Hood Triangle Binary (.TRI)  |  :white_check_mark:  |  :white_check_mark: | 
