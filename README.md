@@ -69,8 +69,6 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Object File Format (.OFF) | :white_check_mark:  | :x: | 
 | SoftImage (.HRC) | :white_check_mark:  | :white_check_mark: | 
 | Movie.BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
-| Blender 3D ( .BLEND ) | :x:  | :x: | 
-| glTF  ( .GLT ) | :x:  |:x: | 
 | Digistar II VLA  ( .VLA )  | :white_check_mark:  | :white_check_mark: | 
 | Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
