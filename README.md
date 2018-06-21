@@ -78,3 +78,5 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 ## Support
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.ptsource.eu/)
+
+[![Visit homepage.](https://webstats.ptsource.eu/github.gif)](https://www.ptsource.eu/)
