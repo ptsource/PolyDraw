@@ -72,6 +72,12 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Digistar II VLA  ( .VLA )  | :white_check_mark:  | :white_check_mark: | 
 | Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
+| UnreaL ( .3D )  | :white_check_mark:  | :x: | 
+| Izware Nendo ( .NDO )  | :white_check_mark:  | :x: | 
+| 3D GameStudio Terrain ( .HMP )  | :white_check_mark:  | :x: | 
+| Terragen Terrain ( .TER )  | :white_check_mark:  | :x: | 
+| BlitzBasic 3D ( .B3D )  | :white_check_mark:  | :x: |
+| Extensible 3D ( .X3D )  | :x:  | :white_check_mark: |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
