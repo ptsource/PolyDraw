@@ -3,7 +3,7 @@
 Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons. Polygonal modeling is well suited to scanline rendering and is therefore the method of choice for real-time computer graphics. Alternate methods of representing 3D objects include NURBS surfaces, subdivision surfaces, and equation-based representations used in ray tracers.
 
 # PolyDraw
-### Current version 10 released 02/07/2018 compiled and tested under Windows 10
+### Current version 10 released 12/07/2018 compiled and tested under Windows 10
 
 
 PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR and 3D Printing.
@@ -63,10 +63,11 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Neutral File Format (.NFF) | :white_check_mark:  | :x: | 
 | Sense8 WorldToolkit (.NFF) | :white_check_mark:  | :x: |
 | RtCW (.MDC) | :white_check_mark:  | :x: |
-| Quake I (.MDL) | :white_check_mark:  | :x: |
+| Quake I (.MDL) | :white_check_mark:  | :white_check_mark: |
 | Quake II (.MD2) | :white_check_mark:  | :x: |
 | Quake III (.MD3) | :white_check_mark:  | :x: |
-| Raw Triangles (.RAW) | :white_check_mark:  | :x: |
+| Quake III Map (.PK3) | :white_check_mark:  | :x: |
+| Raw Triangles (.RAW) | :white_check_mark:  | :white_check_mark: |
 | Object File Format (.OFF) | :white_check_mark:  | :x: | 
 | SoftImage (.HRC) | :white_check_mark:  | :white_check_mark: | 
 | Movie.BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
@@ -80,6 +81,7 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | BlitzBasic 3D ( .B3D )  | :white_check_mark:  | :x: |
 | Extensible 3D ( .X3D )  | :x:  | :white_check_mark: |
 | IFC/Step ( .IFC )  | :white_check_mark:  | :x: |
+| Renderware ( .RWX )  | :x:  | :white_check_mark: |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
