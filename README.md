@@ -51,8 +51,8 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | ZGL (.ZGL)  |  :white_check_mark:  | :x: |
 | Modo (.LXO)  |  :white_check_mark:  | :x: | 
 | Autodesk  ( .FBX )  |  :white_check_mark:  | :x:  | 
-| VRML 1.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
-| VRML 2.0 (.WRL)  |  :white_check_mark:  |  :white_check_mark: | 
+| VRML 1.0 (.WRL)  |  :x:  |  :white_check_mark: | 
+| VRML 2.0 (.WRL)  |  :x:  |  :white_check_mark: | 
 | ThreeJS (.JSON)  | :x:  |  :white_check_mark: | 
 | Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
 | AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
