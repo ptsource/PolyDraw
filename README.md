@@ -80,6 +80,7 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Extensible 3D ( .X3D )  | :x:  | :white_check_mark: |
 | IFC/Step ( .IFC )  | :white_check_mark:  | :x: |
 | Renderware ( .RWX )  | :x:  | :white_check_mark: |
+| Block ( .BLOCK )  | :x:  | :white_check_mark: |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
