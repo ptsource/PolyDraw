@@ -3,7 +3,7 @@
 Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons. Polygonal modeling is well suited to scanline rendering and is therefore the method of choice for real-time computer graphics. Alternate methods of representing 3D objects include NURBS surfaces, subdivision surfaces, and equation-based representations used in ray tracers.
 
 # PolyDraw
-### Current version 12 released 27/08/2018 compiled and tested under Windows 10
+### Current version 12 released 21/10/2018 compiled and tested under Windows 10
 
 
 PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR and 3D Printing.
@@ -80,7 +80,6 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | Extensible 3D ( .X3D )  | :x:  | :white_check_mark: |
 | IFC/Step ( .IFC )  | :white_check_mark:  | :x: |
 | Renderware ( .RWX )  | :x:  | :white_check_mark: |
-| Block ( .BLOCK )  | :x:  | :white_check_mark: |
 
 [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
