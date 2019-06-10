@@ -27,6 +27,8 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 
 |Format  | Import | Export | 
 | ------------- | ------------- | ------------- | 
+| PTSource PolyDraw Format (.D3D) | :white_check_mark: | :white_check_mark: |
+| PTSource VRGrid Format (.VROBJ) | :x: | :white_check_mark: |
 | 3D Studio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
 | 3D Studio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
 | 3D Studio Scene (.ASE)  |  :white_check_mark:  |  :white_check_mark: | 
