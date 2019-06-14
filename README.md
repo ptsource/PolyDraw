@@ -57,7 +57,7 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | VRML 2.0 (.WRL)  |  :x:  |  :white_check_mark: | 
 | ThreeJS (.JSON)  | :x:  |  :white_check_mark: | 
 | Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
-| AutoCAD DXF (.DXF) |  :white_check_mark:  |  :white_check_mark: | 
+| AutoCAD DXF (.DXF) |  :white_check_mark:  |  :x: | 
 | POV-Ray (.POV) | :x: |  :white_check_mark: | 
 | TECPLOT files (.TEC) | :x:  | :white_check_mark: | 
 | Neutral File Format (.NFF) | :white_check_mark:  | :x: | 
