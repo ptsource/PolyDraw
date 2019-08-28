@@ -8,7 +8,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR and 3D Printing.
 
- [![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-16-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/)
+ [![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-16-red.svg)](https://wiki.ptsource.eu/software/downloads) [![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/software/downloads) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/polydraw/start)
 
 ## Screenshots
 ![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG)
@@ -83,8 +83,8 @@ PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D objects u
 | IFC/Step ( .IFC )  | :white_check_mark:  | :x: |
 | Renderware ( .RWX )  | :x:  | :white_check_mark: |
 
-[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
+[![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/software/downloads)
 
 ## Support
 
-[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://www.ptsource.eu/)
+[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/)
