@@ -10,8 +10,8 @@ PTSource PolyDraw is a free 3D polygonal modeller, for creating or modifying 3D 
  [![Maintenance](/images/maintained.svg)]() [![Travis](/images/rust.svg)]()  [![You can download here.](/images/version-18-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/software/polydraw/start)
 
 ## Screenshots
-![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG)
-![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/04.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/05.PNG)![PolyDraw](https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/06.PNG)
+<img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG" width="33%">
+<img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/04.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/05.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/06.PNG" width="33%">
 
 ## Features 
 
