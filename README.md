@@ -96,3 +96,7 @@ you might get a warning. You should dismiss it and continue.
 ## Support
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
+
+## Donate with PayPal
+
+[![Donate with PayPal.](/images/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D3EH7N735BVVW)
