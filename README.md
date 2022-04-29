@@ -14,6 +14,9 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 ## Download
 
  [![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/polydraw/start) [![You can download here.](/images/version-18-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
+ 
+ ## Donate a cup of coffee
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D3EH7N735BVVW" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG" width="33%">
