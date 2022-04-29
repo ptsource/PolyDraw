@@ -11,7 +11,9 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 |         :---:         | 
 | Windows 7, 8, 8.1, 10, 11 platforms x86 or x64. | 
 
- [![Maintenance](/images/maintained.svg)]() [![You can download here.](/images/version-18-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
+## Download
+
+ [![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/polydraw/start) [![You can download here.](/images/version-18-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG" width="33%">
@@ -94,8 +96,6 @@ you might get a warning. You should dismiss it and continue.
     and then "run anyway".
 -   Follow the instructions in the installer.
 -   You can now launch the software from your desktop.
-
-[![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1)
 
 ## Support
 
