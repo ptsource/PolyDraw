@@ -19,7 +19,7 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 
 If you would like to support general development efforts by making a donation please click the Paypal Donate button
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D3EH7N735BVVW" target="_blank"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/images/donate.gif"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D3EH7N735BVVW" target="_blank"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/donate.gif"></a>
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/01.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/02.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/PolyDraw/master/images/03.PNG" width="33%">
