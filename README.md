@@ -9,7 +9,7 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 
 |  System requirements  |  
 |         :---:         | 
-| Windows 7, 8, 8.1, 10, 11 platforms x86 or x64. | 
+| Windows 8.1, 10 or 11 platforms arch x86 or x64. | 
 
 ## Download
 
