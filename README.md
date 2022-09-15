@@ -13,7 +13,7 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 
 ## Download
 
- [![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/polydraw/start) [![You can download here.](/images/version-18-red.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![You can download here.](/images/download-here-green.svg)](https://dl.orangedox.com/YYR2ih46hcVPtlG8lq?dl=1) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
+ [![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/polydraw/start) [![You can download here.](/images/version-18-red.svg)](https://wiki.ptsource.eu/files) [![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/files) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
  
 ## Support development
 
