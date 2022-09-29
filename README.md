@@ -38,22 +38,22 @@ If you would like to support general development efforts by making a donation pl
 
 |Format  | Import | Export | 
 | ------------- | ------------- | ------------- | 
-| PTSource PolyDraw Format (.D3D) | :white_check_mark: | :white_check_mark: |
-| PTSource VRGrid Format (.VROBJ) | :x: | :white_check_mark: |
-| 3D Studio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
-| 3D Studio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
-| 3D Studio Scene (.ASE)  |  :white_check_mark:  |  :white_check_mark: | 
-| Spreadsheet Text File (.CSV) |  :white_check_mark: |  :white_check_mark: | 
-| Wavefront (.OBJ) + WebVR A-Frame (.HTML)  |  :white_check_mark:  |  :white_check_mark: | 
-| Wavefront Object (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
+| PTSource PolyDraw (.D3D) | :white_check_mark: | :white_check_mark: |
+| PTSource VRGrid (.VROBJ) | :x: | :white_check_mark: |
+| 3DStudio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
+| 3DStudio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
+| 3DStudio Scene (.ASE)  |  :white_check_mark:  |  :white_check_mark: | 
+| Spreadsheet Text (.CSV) |  :white_check_mark: |  :white_check_mark: | 
+| A-Frame (.HTML + .OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
+| Wavefront (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
 | Collada Object (.DAE)  |  :white_check_mark:  | :white_check_mark: | 
 | GLTF Binary (.GLB)  |  :x:  | :white_check_mark: | 
-| Stereolithography Binary (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
-| Stereolithography Ascii (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
-| Hood Triangle Binary (.TRI)  |  :white_check_mark:  |  :white_check_mark: | 
-| Hood Triangle Ascii (.TRI)  |  :white_check_mark:  |  :white_check_mark: |
+| Stereolit Binary (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
+| Stereolit Ascii (.STL)  |  :white_check_mark:  |  :white_check_mark: | 
+| Hood Binary (.TRI)  |  :white_check_mark:  |  :white_check_mark: | 
+| Hood Ascii (.TRI)  |  :white_check_mark:  |  :white_check_mark: |
 | Open Inventor (.IV)  |  :white_check_mark:  |  :white_check_mark: |
-| Stanford Polygon Library (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
+| Stanford Polygon (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
 | LightWave Object (.LWO)  |  :white_check_mark:  | :x: | 
 | LightWave Scene (.LWS)  |  :white_check_mark:  | :x: | 
 | TrueSpace Object (.COB)  |  :white_check_mark:  | :x: | 
@@ -66,12 +66,11 @@ If you would like to support general development efforts by making a donation pl
 | Autodesk  ( .FBX )  |  :white_check_mark:  | :x:  | 
 | VRML 1.0 (.WRL)  |  :x:  |  :white_check_mark: | 
 | VRML 2.0 (.WRL)  |  :x:  |  :white_check_mark: | 
-| ThreeJS (.JSON)  | :x:  |  :white_check_mark: | 
-| Stanford Polygon Library (.PLY) | :white_check_mark:  |  :white_check_mark: | 
+| ThreeJS (.JSON)  | :x:  |  :white_check_mark: |  
 | AutoCAD DXF (.DXF) |  :white_check_mark:  |  :x: | 
 | POV-Ray (.POV) | :x: |  :white_check_mark: | 
 | TECPLOT files (.TEC) | :x:  | :white_check_mark: | 
-| Neutral File Format (.NFF) | :white_check_mark:  | :x: | 
+| Neutral Format (.NFF) | :white_check_mark:  | :x: | 
 | Sense8 WorldToolkit (.NFF) | :white_check_mark:  | :x: |
 | RtCW (.MDC) | :white_check_mark:  | :x: |
 | Quake I (.MDL) | :white_check_mark:  | :white_check_mark: |
@@ -79,7 +78,7 @@ If you would like to support general development efforts by making a donation pl
 | Quake III (.MD3) | :white_check_mark:  | :x: |
 | Quake III Map (.PK3) | :white_check_mark:  | :x: |
 | Raw Triangles (.RAW) | :white_check_mark:  | :white_check_mark: |
-| Object File Format (.OFF) | :white_check_mark:  | :x: | 
+| Object Format (.OFF) | :white_check_mark:  | :x: | 
 | SoftImage (.HRC) | :white_check_mark:  | :white_check_mark: | 
 | Movie.BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
 | Digistar II VLA  ( .VLA )  | :white_check_mark:  | :white_check_mark: | 
@@ -87,7 +86,7 @@ If you would like to support general development efforts by making a donation pl
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
 | UnreaL ( .3D )  | :white_check_mark:  | :x: | 
 | Izware Nendo ( .NDO )  | :white_check_mark:  | :x: | 
-| 3D GameStudio Terrain ( .HMP )  | :white_check_mark:  | :x: | 
+| 3D Terrain ( .HMP )  | :white_check_mark:  | :x: | 
 | Terragen Terrain ( .TER )  | :white_check_mark:  | :x: | 
 | BlitzBasic 3D ( .B3D )  | :white_check_mark:  | :x: |
 | Extensible 3D ( .X3D )  | :x:  | :white_check_mark: |
