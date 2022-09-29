@@ -53,7 +53,7 @@ If you would like to support general development efforts by making a donation pl
 | Hood Binary (.TRI)  |  :white_check_mark:  |  :white_check_mark: | 
 | Hood Ascii (.TRI)  |  :white_check_mark:  |  :white_check_mark: |
 | Open Inventor (.IV)  |  :white_check_mark:  |  :white_check_mark: |
-| Stanford Polygon (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
+| Polygon (.PLY)  |  :white_check_mark:  |  :white_check_mark: | 
 | LightWave Object (.LWO)  |  :white_check_mark:  | :x: | 
 | LightWave Scene (.LWS)  |  :white_check_mark:  | :x: | 
 | TrueSpace Object (.COB)  |  :white_check_mark:  | :x: | 
