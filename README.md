@@ -71,7 +71,7 @@ If you would like to support general development efforts by making a donation pl
 | POV-Ray (.POV) | :x: |  :white_check_mark: | 
 | TECPLOT files (.TEC) | :x:  | :white_check_mark: | 
 | Neutral Format (.NFF) | :white_check_mark:  | :x: | 
-| Sense8 WorldToolkit (.NFF) | :white_check_mark:  | :x: |
+| S8 WorldToolkit (.NFF) | :white_check_mark:  | :x: |
 | RtCW (.MDC) | :white_check_mark:  | :x: |
 | Quake I (.MDL) | :white_check_mark:  | :white_check_mark: |
 | Quake II (.MD2) | :white_check_mark:  | :x: |
@@ -80,7 +80,7 @@ If you would like to support general development efforts by making a donation pl
 | Raw Triangles (.RAW) | :white_check_mark:  | :white_check_mark: |
 | Object Format (.OFF) | :white_check_mark:  | :x: | 
 | SoftImage (.HRC) | :white_check_mark:  | :white_check_mark: | 
-| Movie.BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
+| BYU geometry (.BYU) | :white_check_mark:  | :white_check_mark: | 
 | Digistar II VLA  ( .VLA )  | :white_check_mark:  | :white_check_mark: | 
 | Biovision  ( .BVH )  | :white_check_mark:  | :x: | 
 | Ogre XML ( .XML )  | :white_check_mark:  | :x: | 
