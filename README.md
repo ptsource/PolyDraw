@@ -28,11 +28,8 @@ PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for c
 * Pre-made example models inside the program folder under Objects. 
 * Has lists to allow you to view & edit all the data by keyboard.
 
-## Versions Avaliable
 
-PTSource PolyDraw has two avaliable versions. The Free and the Plus version. The two versions work exactly the same the only diference its the importand export table wich can be checked bellow.
-
-## Import and export table for plus version
+## Import and export table for latest version
 
 |Format  | Import | Export | 
 | ------------- | ------------- | ------------- | 
@@ -91,19 +88,6 @@ PTSource PolyDraw has two avaliable versions. The Free and the Plus version. The
 | IFC/Step ( .IFC )  | :white_check_mark:  | :x: |
 | Renderware ( .RWX )  | :x:  | :white_check_mark: |
 
-## Import and export table for free version
-
-|Format  | Import | Export | 
-| ------------- | ------------- | ------------- | 
-| PTSource PolyDraw (.D3D) | :white_check_mark: | :white_check_mark: |
-| PTSource VRGrid (.VROBJ) | :x: | :white_check_mark: |
-| 3DStudio Binary  (.3DS) | :white_check_mark: | :white_check_mark: |  
-| 3DStudio Ascii (.ASC)  |  :white_check_mark:  |  :white_check_mark: | 
-| 3DStudio Scene (.ASE)  |  :white_check_mark:  |  :white_check_mark: | 
-| Spreadsheet Text (.CSV) |  :white_check_mark: |  :white_check_mark: | 
-| A-Frame (.HTML + .OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
-| Wavefront (.OBJ)  |  :white_check_mark:  |  :white_check_mark: | 
-| Collada Object (.DAE)  |  :white_check_mark:  | :x: | 
 
 **Note :** This software does not use a digitally signed installer, so
 you might get a warning. You should dismiss it and continue.
