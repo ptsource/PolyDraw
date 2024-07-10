@@ -5,7 +5,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 # PTSource PolyDraw
 ### Current version 18 updated 03/04/2023 for Windows
 
-PTSource PolyDraw is a free 3D polygonal modeller for Windows x86 and x64, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR and 3D Printing.
+PTSource PolyDraw is a 3D polygonal modeller for Windows x86 and x64, for creating or modifying 3D objects using a mesh of 3D points and parametric NURBS Curves .Exports and imports to over 40 formats including WebVR and 3D Printing.
 
 |  System requirements  |  
 |         :---:         | 
