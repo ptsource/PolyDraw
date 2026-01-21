@@ -91,7 +91,7 @@ PTSource PolyDraw is a 3D polygonal modeller for Windows x86 and x64 designed fo
 | Renderware ( .RWX )  | :x:  | :white_check_mark: |
 
 
-## Support
+## Homepage
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
 
