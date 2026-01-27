@@ -4,7 +4,7 @@ Polygonal modeling is an approach for modeling objects by representing or approx
 
 # PTSource PolyDraw
 ### Current version 18 Final for Windows
-#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates and change logs.
+#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates, change logs or to buy us a coffee.
 
 PTSource PolyDraw is a 3D polygonal modeller for Windows x86 and x64 designed for creating and modifying 3D objects with precision and flexibility. Whether you're working with a mesh of 3D points or parametric NURBS curves, PTSource PolyDraw offers a robust set of tools for both beginners and professionals in 3D design. With support for importing and exporting to over 40 file formats, including WebVR and 3D printing, PTSource PolyDraw ensures seamless integration into your workflow.
 
