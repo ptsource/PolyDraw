@@ -95,3 +95,7 @@ PTSource PolyDraw is a 3D polygonal modeller for Windows x86 and x64 designed fo
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/polydraw/start)
 
+<p align="center" width="100%">
+    <a href="https://store.ptsource.eu/soft/polydraw/start" target="_blank"><img src="/images/bannerpolydraw.png" alt="PTSource PolyDraw"></a> 
+</p>
+
